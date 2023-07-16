@@ -1,0 +1,3 @@
+files:
+  - source: /template/
+    translation: /translations/%locale%.ini
